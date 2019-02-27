@@ -1,0 +1,4 @@
+X:\!!! STUDENTSKI DIREKTORIJUM !!!\Igor Zuber masinsko ucenje\dsadas\Player Video\Player Video\bin\Debug\Player Video.exe.config
+X:\!!! STUDENTSKI DIREKTORIJUM !!!\Igor Zuber masinsko ucenje\dsadas\Player Video\Player Video\obj\Debug\Player Video.csprojResolveAssemblyReference.cache
+X:\!!! STUDENTSKI DIREKTORIJUM !!!\Igor Zuber masinsko ucenje\dsadas\Player Video\Player Video\obj\Debug\App.g.cs
+X:\!!! STUDENTSKI DIREKTORIJUM !!!\Igor Zuber masinsko ucenje\dsadas\Player Video\Player Video\obj\Debug\Player Video_MarkupCompile.cache

@@ -1,0 +1,6 @@
+X:\!!! STUDENTSKI DIREKTORIJUM !!!\Igor Zuber masinsko ucenje\dsadas\Video\Video\bin\Debug\Video.exe.config
+X:\!!! STUDENTSKI DIREKTORIJUM !!!\Igor Zuber masinsko ucenje\dsadas\Video\Video\obj\Debug\MainWindow.g.cs
+X:\!!! STUDENTSKI DIREKTORIJUM !!!\Igor Zuber masinsko ucenje\dsadas\Video\Video\obj\Debug\App.g.cs
+X:\!!! STUDENTSKI DIREKTORIJUM !!!\Igor Zuber masinsko ucenje\dsadas\Video\Video\obj\Debug\Video_MarkupCompile.cache
+X:\!!! STUDENTSKI DIREKTORIJUM !!!\Igor Zuber masinsko ucenje\dsadas\Video\Video\obj\Debug\Video_MarkupCompile.lref
+X:\!!! STUDENTSKI DIREKTORIJUM !!!\Igor Zuber masinsko ucenje\dsadas\Video\Video\obj\Debug\Video_Content.g.cs
